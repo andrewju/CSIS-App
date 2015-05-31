@@ -1,0 +1,2 @@
+/Users/andrewju/AndroidstudioProjects/CSIS/app/build/intermediates/classes/debug
+/Users/andrewju/AndroidstudioProjects/CSIS/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fb62640b18c5198b7fc3cb1fcf2e8aefbe258d95.jar
